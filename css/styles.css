@@ -1,0 +1,20 @@
+
+    body {
+      background-color: honeydew;
+    }
+
+    hr{
+      border-style: none;
+      border-top-style: dotted;
+      border-color: #fff1cf;
+      border-width: 10px;
+      width: 5%;
+    }
+h1{
+  color: #537d91;
+  font-family: 'Satisfy', cursive;
+}
+
+h3{
+  color: #66BFBF;
+}
